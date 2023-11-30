@@ -23,5 +23,5 @@ generated reports using Newman.
 ```https://documenter.getpostman.com/view/17475087/2s9YeG6rjw```
 ## Test case for dmoney_transaction_api
 ```https://docs.google.com/spreadsheets/d/1nRTtO2J_6Gwu9Q1IVcduZW307BjLIf2K/edit?usp=sharing&ouid=101713067954447514942&rtpof=true&sd=true```
-## Bug report
+## Bug report for dmoney_transaction_api
 ```https://docs.google.com/spreadsheets/d/1RsgcK0BXTlAvwDS8mhvUF4HxLv1Tlrf3/edit?usp=sharing&ouid=101713067954447514942&rtpof=true&sd=true```
